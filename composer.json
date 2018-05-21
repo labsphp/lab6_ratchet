@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "classmap":["src/Chat.php","bin/chat-server.php"]
+  },
+  "require": {
+    "cboden/ratchet": "^0.4"
+  }
+}
